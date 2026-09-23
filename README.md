@@ -107,5 +107,5 @@ UK_Online_Retail_PowerBI/
 
 ## Author
 
-**Austin Nwachukwu**  
+**Austine Nwachukwu**  
 Data Analyst | Power BI | SQL | Python
