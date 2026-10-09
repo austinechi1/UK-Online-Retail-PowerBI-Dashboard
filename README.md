@@ -2,6 +2,8 @@
 
 > **Power BI business intelligence case study analysing retail revenue, customer behaviour, product performance, and returns using Power Query, DAX, data modelling, and interactive reporting.**
 
+**[Download the interactive Power BI report (.pbix)](UK_Online_Retail_Dashboard.pbix)** · [View dashboard screenshots](#dashboard-pages)
+
 ![Overview Dashboard](01_Overview_Dashboard.png)
 
 ## Executive Summary
@@ -119,7 +121,7 @@ UK-Online-Retail-PowerBI-Dashboard/
 
 ## How to Review
 
-Open the `.pbix` file in Power BI Desktop to explore the complete interactive report and DAX model. The PNG exports provide a quick preview without requiring Power BI.
+Open the [Power BI report](UK_Online_Retail_Dashboard.pbix) in Power BI Desktop to explore the complete interactive report and DAX model. The PNG exports provide a quick preview without requiring Power BI.
 
 ## Author
 
